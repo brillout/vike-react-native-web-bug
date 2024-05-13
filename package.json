@@ -25,7 +25,8 @@
     "react-dom": "^18.3.1",
     "react-native-web": "^0.19.11",
     "vike": "^0.4.171",
-    "vike-react": "^0.4.8"
+    "vike-react": "^0.4.8",
+    "vite-plugin-cjs-interop": "^2.1.0"
   },
   "packageManager": "yarn@4.2.2"
 }
